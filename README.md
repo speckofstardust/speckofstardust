@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -  ...
 - 
 -->
+[![An image of @speckofstardust's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/speckofstardust)](https://holopin.io/@speckofstardust)
