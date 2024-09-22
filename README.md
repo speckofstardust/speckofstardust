@@ -1,9 +1,9 @@
-👋Hi there! I'm Sharmada S (@speckofstardust), 3rd year Computer Science Enginnering student in Banglore Institute of Technology  
+👋Hi there! I'm Sharmada S (@speckofstardust), final year Computer Science and Enginnering student in Banglore Institute of Technology(BIT).   
 
-🔭 I’m currently working on problem solving for competitive programming  
-🌱 I’m currently learning Data Structure and Algorithms  
+🔭 I’m currently working on problem solving for competitive programming.   
+🌱 I’m currently poking around different Operating Systems to satisfy my curiosity.  
 😄 Pronouns: she/her  
-⚡ Fun fact: I love turtles
+⚡ Fun fact: I love turtles.
 <!--
 **speckofstardust/speckofstardust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
